@@ -1,0 +1,6 @@
+[submodule "bitterling"]
+	path = bitterling
+	url = git@github.com:jinelei/bitterling.git
+[submodule "mussel"]
+	path = mussel
+	url = git@github.com:jinelei/mussel.git
